@@ -6,6 +6,8 @@
 
 
 
+
+
 ## 2019-04-25
 
 Life feeds on negative entropy.
