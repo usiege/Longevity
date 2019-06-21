@@ -1,8 +1,7 @@
-# Longevity
+# Keep alive longevity.
 
 > Physics, biochemistry, neurobiology, variety， discuss life always live.
-
-> 探讨意识永存，我想永生
+> 探讨意识永存，我想永生，谁不呢？
 
 
 ## 2019-06
